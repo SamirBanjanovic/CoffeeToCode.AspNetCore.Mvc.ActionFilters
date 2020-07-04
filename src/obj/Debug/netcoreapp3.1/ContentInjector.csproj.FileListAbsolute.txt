@@ -1,0 +1,9 @@
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/obj/Debug/netcoreapp3.1/ContentInjector.csprojAssemblyReference.cache
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/obj/Debug/netcoreapp3.1/ContentInjector.csproj.CoreCompileInputs.cache
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/obj/Debug/netcoreapp3.1/ContentInjector.AssemblyInfoInputs.cache
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/obj/Debug/netcoreapp3.1/ContentInjector.AssemblyInfo.cs
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/bin/Debug/netcoreapp3.1/ContentInjector.deps.json
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/bin/Debug/netcoreapp3.1/ContentInjector.dll
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/bin/Debug/netcoreapp3.1/ContentInjector.pdb
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/obj/Debug/netcoreapp3.1/ContentInjector.dll
+/Users/samir/repos/coffee-to-code/action-filters/content-injector/src/obj/Debug/netcoreapp3.1/ContentInjector.pdb
