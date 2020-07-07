@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
@@ -14,6 +15,7 @@ namespace CoffeeToCode.AspNetCore.Mvc.ActionFilters
         }
 
         private class ContentInjectorImpl
+        : IAsyncActionFilter
         {
             private readonly string _parameter;
             private readonly string _source;
@@ -26,13 +28,9 @@ namespace CoffeeToCode.AspNetCore.Mvc.ActionFilters
                 _path = path;
             }
 
-            public void OnActionExecuting(ActionExecutingContext context)
+            public async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
             {
-
-            }
-
-            public void OnActionExecuted(ActionExecutedContext context)
-            {
+                throw new NotImplementedException();
             }
         }
     }
